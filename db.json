@@ -1,0 +1,26 @@
+{
+  "clientes": [
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Pedro2",
+      "empresa": "Codigo Con Juan",
+      "email": "pedro@juan.com",
+      "telefono": "1398198938",
+      "notas": "fafa",
+      "id": 5
+    }
+  ]
+}
